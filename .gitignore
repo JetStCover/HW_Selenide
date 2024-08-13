@@ -43,4 +43,4 @@ out/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
-echo "app-card-delivery.jar"
+echo "app-card-delivery.jar" >> .gitignore
